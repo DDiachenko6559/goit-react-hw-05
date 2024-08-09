@@ -1,4 +1,4 @@
-import s from "./MoviePage.module.css";
+import s from "./MoviesPage.module.css";
 
 import { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
